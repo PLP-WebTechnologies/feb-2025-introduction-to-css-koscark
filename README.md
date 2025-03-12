@@ -29,4 +29,4 @@ Margins, paddings, and borders.
 Happy Coding! 💻✨
 
 #### ANSWER
-    I have attached an index.html file with the answer (Week 2 Assignment).
+    I have attached a folder with with the html and css answer (Week 3 Assignment).

@@ -27,3 +27,6 @@ Margins, paddings, and borders.
  - Improve readability and aesthetics.
 
 Happy Coding! 💻✨
+
+#### ANSWER
+    I have attached an index.html file with the answer (Week 2 Assignment).
